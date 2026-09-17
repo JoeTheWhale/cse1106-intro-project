@@ -5,6 +5,6 @@
 ##Code is 100% C. I don't know how to code in other languages yet
 
 ##How to run:
-
+##haven't figured it out yet
 
 ##I learned that i have so much to learn (I know this placement seems awkward I'm using the suggested format)
